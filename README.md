@@ -1,7 +1,8 @@
 # Hello everyone! :call_me_hand:
 
 
-Here I mainly post my pet projects, I write mainly in Python, I am interested in developing web services and neural networks, and I can also develop mobile applications.
+Here I mainly post my pet project.
+A fan of web and mobile application development, write in Python most of the time.
 
 # Favorite tech's:
 ### Platforms :computer:
